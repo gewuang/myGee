@@ -1,8 +1,9 @@
 package main
 
 import (
-	"gee"
 	"net/http"
+
+	gee "github.com/gewuang/myGee/gee"
 )
 
 func main() {
